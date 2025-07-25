@@ -1,5 +1,5 @@
 spring:
-  progiles:
+  profiles:
     active: ES, cat, dev
 guru:
   username: YmlUsername
