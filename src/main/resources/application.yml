@@ -1,0 +1,7 @@
+spring:
+  progiles:
+    active: ES, cat, dev
+guru:
+  username: YmlUsername
+  password: YmlPassword
+  jdbcurl: YmlUrl
